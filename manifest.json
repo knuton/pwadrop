@@ -7,7 +7,7 @@
     "type": "image/png"
   }],
   "background_color": "#efefef",
-  "start_url": "/",
+  "start_url": "/pwadrop/",
   "display": "standalone"
 }
 
